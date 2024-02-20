@@ -18,6 +18,12 @@ body {
     color: #ffffff;
 }
 
+.header--sub-header {
+    font-size: 21px;
+    color: gray;
+
+}
+
 /*LINKS*/
 /*cta stands for "call to action"*/
 .link--cta {
